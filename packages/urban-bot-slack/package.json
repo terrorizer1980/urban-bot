@@ -58,7 +58,7 @@
     "@slack/interactive-messages": "1.5.0",
     "@slack/types": "1.5.0",
     "@slack/web-api": "5.8.0",
-    "body-parser": "1.19.0"
+    "body-parser": "1.19.2"
   },
   "repository": {
     "type": "git",
