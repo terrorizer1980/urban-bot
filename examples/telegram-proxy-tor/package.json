@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "@babel/core": "^7.10.2",
-        "@babel/preset-env": "^7.10.2",
+        "@babel/preset-env": "^7.22.6",
         "@babel/preset-react": "^7.10.1",
         "@urban-bot/core": "^0.1.6",
         "@urban-bot/telegram": "^0.1.6",
