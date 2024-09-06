@@ -22,18 +22,18 @@
         "prepare": "npm run build"
     },
     "dependencies": {
-        "@babel/core": "^7.10.2",
-        "@babel/preset-env": "^7.10.2",
-        "@babel/preset-react": "^7.10.1",
+        "@babel/core": "^7.23.2",
+        "@babel/preset-env": "^7.22.6",
+        "@babel/preset-react": "^7.12.13",
         "@urban-bot/core": "^0.1.6",
         "@urban-bot/telegram": "^0.1.6",
-        "babel-loader": "^8.1.0",
+        "babel-loader": "^9.1.3",
         "dotenv": "^8.2.0",
         "file-loader": "^6.0.0",
         "react": "^16.13.1",
         "socks5-https-client": "1.2.1",
-        "webpack": "^4.43.0",
-        "webpack-cli": "^3.3.11",
+        "webpack": "^5.79.0",
+        "webpack-cli": "^4.0.0",
         "webpack-node-externals": "^1.7.2"
     },
     "devDependencies": {
